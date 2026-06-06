@@ -1,0 +1,6 @@
+{
+  "name": "CBT Thought Reframer",
+  "description": "An AI-guided CBT helper to reframe negative thoughts during work and daily commutes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
